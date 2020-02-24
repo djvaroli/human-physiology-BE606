@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729e2d24-de61-415e-836e-8e609b4756dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/C1P8data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/E_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/currents.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/em_im.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/em_im_vs_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/p_spike_train.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/ps_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/spike_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spike_triggered_average/sptrav.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spike_triggered_average" />
+  </component>
+  <component name="ProjectId" id="1YGxyTtx7KPIEVlT7hWGPSGq3OC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729e2d24-de61-415e-836e-8e609b4756dd" name="Default Changelist" comment="" />
+      <created>1582582986765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582582986765</updated>
+      <workItem from="1582582993454" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spike_triggered_average" />
+    </ignored-roots>
+  </component>
+</project>
